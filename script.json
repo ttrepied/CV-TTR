@@ -1,8 +1,8 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Thierry, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "BOT": "Hi there!\nI’m the personal bot of Thierry, an Agile Coach from Paris.\n![thierry](https://raw.githubusercontent.com/ttrepied/cv-ttr/master/img/thierry.jpg)\nWant to know more about bots or learn about Thierry? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Thierry](postback:learn_about_thierry) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hey, I'm so glad you set ThierryBot up! Do you want to tell Thierry that you're talking to his bot? %[Tell her](postback:twitter)",
+    "TELL HER": "Let's tweet @ Thierry so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Thierry](http://bit.ly/ttrepied)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, ThierryBot is back."
 }
